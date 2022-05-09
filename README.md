@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xaccidentalhackerx
+- 👋 Hi, I’m Jynx!
 - 👀 I’m interested in ... learning to program and build projects
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Anything
